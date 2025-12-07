@@ -27,3 +27,4 @@ services:
 #note: bật code bằng sudo docker compose -f "linux.yml" up -d
 #note: tắt bằng sudo docker compose -f "linux.yml" down 
 #note: code này làm bởi:chillmusic-o7v
+#note 
